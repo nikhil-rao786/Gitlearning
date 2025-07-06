@@ -20,3 +20,4 @@ let fun3=function(a,b){
 
 }
 fun3(3,4);
+console.lof("Latest Update");
