@@ -14,3 +14,9 @@ let fun2=function(a,b){
 
 }
 funn(3,4);
+let fun3=function(a,b){
+    console.log(x/y);
+    return x/y;
+
+}
+fun3(3,4);
